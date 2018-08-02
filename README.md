@@ -1,5 +1,7 @@
 # Mushroom Classification:
 
+This Model predicts whether a given mushroom with certain characteristics is Edible or Poisonous.
+
 Attribute Information: (classes: edible=e, poisonous=p)
 cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
 cap-surface: fibrous=f,grooves=g,scaly=y,smooth=s
